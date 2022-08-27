@@ -5,18 +5,19 @@
  */
 package github.aula1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author christhofer.vieira
  */
-public class GithubAula1 {
+public class carro {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("bem vindo ao Git");
+        Scanner input = new Scanner (System.in);
     }
     
 }
